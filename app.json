@@ -21,7 +21,8 @@
         "backgroundImage": "./assets/android-icon-background.png",
         "monochromeImage": "./assets/android-icon-monochrome.png"
       },
-      "package": "com.matiudev.dailyvault"
+      "package": "com.matiudev.dailyvault",
+      "versionCode": 1
     },
     "web": {
       "bundler": "metro",
@@ -33,7 +34,7 @@
     ],
     "extra": {
       "eas": {
-        "projectId": "ID_PROYECTO"
+        "projectId": "73308e49-eccf-4c1a-9149-a3f9fef923dc"
       }
     },
     "runtimeVersion": {
@@ -43,7 +44,7 @@
       "enabled": true,
       "fallbackToCacheTimeout": 0,
       "checkAutomatically": "ON_LOAD",
-      "url": "ID_PROYECTO"
+      "url": "https://u.expo.dev/73308e49-eccf-4c1a-9149-a3f9fef923dc"
     }
   }
 }
